@@ -1,0 +1,16 @@
+C:\SAHIL\KWMS\Kemar.UrgeTruck\Kemar.UrgeTruck.Domain\bin\Debug\net5.0\Kemar.UrgeTruck.Domain.deps.json
+C:\SAHIL\KWMS\Kemar.UrgeTruck\Kemar.UrgeTruck.Domain\bin\Debug\net5.0\Kemar.UrgeTruck.Domain.runtimeconfig.json
+C:\SAHIL\KWMS\Kemar.UrgeTruck\Kemar.UrgeTruck.Domain\bin\Debug\net5.0\Kemar.UrgeTruck.Domain.runtimeconfig.dev.json
+C:\SAHIL\KWMS\Kemar.UrgeTruck\Kemar.UrgeTruck.Domain\bin\Debug\net5.0\Kemar.UrgeTruck.Domain.dll
+C:\SAHIL\KWMS\Kemar.UrgeTruck\Kemar.UrgeTruck.Domain\bin\Debug\net5.0\Kemar.UrgeTruck.Domain.pdb
+C:\SAHIL\KWMS\Kemar.UrgeTruck\Kemar.UrgeTruck.Domain\obj\Debug\net5.0\Kemar.UrgeTruck.Domain.csproj.AssemblyReference.cache
+C:\SAHIL\KWMS\Kemar.UrgeTruck\Kemar.UrgeTruck.Domain\obj\Debug\net5.0\Kemar.UrgeTruck.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\SAHIL\KWMS\Kemar.UrgeTruck\Kemar.UrgeTruck.Domain\obj\Debug\net5.0\Kemar.UrgeTruck.Domain.AssemblyInfoInputs.cache
+C:\SAHIL\KWMS\Kemar.UrgeTruck\Kemar.UrgeTruck.Domain\obj\Debug\net5.0\Kemar.UrgeTruck.Domain.AssemblyInfo.cs
+C:\SAHIL\KWMS\Kemar.UrgeTruck\Kemar.UrgeTruck.Domain\obj\Debug\net5.0\Kemar.UrgeTruck.Domain.csproj.CoreCompileInputs.cache
+C:\SAHIL\KWMS\Kemar.UrgeTruck\Kemar.UrgeTruck.Domain\obj\Debug\net5.0\Kemar.UrgeTruck.Domain.sourcelink.json
+C:\SAHIL\KWMS\Kemar.UrgeTruck\Kemar.UrgeTruck.Domain\obj\Debug\net5.0\Kemar.UrgeTruck.Domain.dll
+C:\SAHIL\KWMS\Kemar.UrgeTruck\Kemar.UrgeTruck.Domain\obj\Debug\net5.0\refint\Kemar.UrgeTruck.Domain.dll
+C:\SAHIL\KWMS\Kemar.UrgeTruck\Kemar.UrgeTruck.Domain\obj\Debug\net5.0\Kemar.UrgeTruck.Domain.pdb
+C:\SAHIL\KWMS\Kemar.UrgeTruck\Kemar.UrgeTruck.Domain\obj\Debug\net5.0\Kemar.UrgeTruck.Domain.genruntimeconfig.cache
+C:\SAHIL\KWMS\Kemar.UrgeTruck\Kemar.UrgeTruck.Domain\obj\Debug\net5.0\ref\Kemar.UrgeTruck.Domain.dll
